@@ -27,4 +27,4 @@ jobs:
     
     - name: Step 4 - Printing USER_2
       run: |
-      echo $USER_2
+        echo $USER_2
